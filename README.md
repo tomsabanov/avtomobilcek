@@ -1,4 +1,4 @@
-V tretjem letniku smo imeli pri predmetu računalništva za izbiro naresti karkoli. 
+V tretjem letniku smo imeli pri predmetu računalništva za izbiro narediti karkoli. 
 Jaz sem se odločil, da naredim avtomobilček, ki ga bom lahko kontroliral preko Bluetooth
 z aplikacijo, ki sem jo tudi sam spisal.
 
